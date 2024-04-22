@@ -1,0 +1,51 @@
+ave(6,8);
+for k = 3:8
+
+for i = 1:size(Arr,1)
+        sum26 = 0;
+        sum31 = 0;
+        sum36 = 0;
+        sum41 = 0;
+        sum46 = 0;
+        sum51 = 0;
+        sum56 = 0;
+        sum61 = 0;
+        cnt26 = 0;
+        cnt31 = 0;
+        cnt36 = 0;
+        cnt41 = 0;
+        cnt46 = 0;
+        cnt51 = 0;
+        cnt56 = 0;
+        cnt61 = 0;
+    sumRIASEC = Arr(i,k);
+    if Arr(i,2)>=26 && Arr(i,2)<=30
+        sum26 = sum26+sumRIASEC;
+        cnt26 = cnt26+1;
+    elseif Arr(i,2)>=31 && Arr(i,2)<=35
+        sum31 = sum31+sumRIASEC;
+        cnt31 = cnt31+1;
+    elseif Arr(i,2)>=36 && Arr(i,2)<=40
+        sum36 = sum31+sumRIASEC;
+        cnt36 = cnt36+1;
+    elseif Arr(i,2)>=41 && Arr(i,2)<=45
+        sum41 = sum31+sumRIASEC;
+        cnt41 = cnt41+1;
+    elseif Arr(i,2)>=46 && Arr(i,2)<=50
+        sum46 = sum31+sumRIASEC;
+        cnt46 = cnt46+1;
+    elseif Arr(i,2)>=51 && Arr(i,2)<=55
+        sum51 = sum31+sumRIASEC;
+        cnt51 = cnt51+1;
+    elseif Arr(i,2)>=56 && Arr(i,2)<=60
+        sum56 = sum31+sumRIASEC;
+        cnt56 = cnt56+1;
+    elseif Arr(i,2)>=61 && Arr(i,2)<=65
+        sum61 = sum31+sumRIASEC;
+        cnt61 = cnt61+1;
+    end
+    ave(k-2) = [sum26/cnt26,sum31/cnt31,sum36/cnt36,sum41/cnt41, sum46/cnt46, sum51/cnt51,sum56/cnt56,sum61/cnt61];
+    end
+end
+    
+    

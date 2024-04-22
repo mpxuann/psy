@@ -1,0 +1,27 @@
+* Encoding: GBK.
+
+DO IF(IQ<=69).
+COMPUTE 智力等级=1.
+ELSE IF(IQ<=79).
+COMPUTE 智力等级=2.
+ELSE IF(IQ<=89).
+COMPUTE 智力等级=3.
+ELSE IF(IQ<=109).
+COMPUTE 智力等级=4.
+ELSE IF(IQ<=119).
+COMPUTE 智力等级=5.
+ELSE IF(IQ<=129).
+COMPUTE 智力等级=6.
+ELSE.
+COMPUTE 智力等级=7.
+END IF.
+EXECUTE.
+
+value label 智力等级
+7	'极超常'
+6	'超常'
+5	'高于平常'
+4	'平常'
+3	'低于平常'
+2	'边界'
+1	'智力缺陷'.

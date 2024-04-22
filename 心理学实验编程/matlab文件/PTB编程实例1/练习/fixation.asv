@@ -1,0 +1,14 @@
+windowNumber = 0;
+windowColor = [100 100 100];
+rect = [];
+[windowPtr,rect] = Screen('OpenWindow',windowNumber,windowColor,rect);
+picRect1 = CenterRect([0 0 20 4],rect);
+picRect2 = CenterRect([0 0 4 20],rect);
+Screen('fillrect',windowPtr,[10 10 10],picRect2);
+Screen('fillrect',windowPtr,[10 10 10],picRect1);
+Duration = 2;
+frame_rate = Screen('Framerate',windowPtr);
+for i = 1:round(Duration/frame_rate)
+    Screen('flip',windowPtr);
+end
+Screen('closeall');

@@ -1,0 +1,2 @@
+Name_1,Name_2,Name_3,Age_1,Age_2,Age_3,Smoker_1,Smoker_2,Smoker_3
+mao,lei,chen,20,19,23,0,0,0

@@ -1,0 +1,11 @@
+trial	name	keyPressed	responseTime	color	response
+1	practice	space	0.6526913000270724	red	hit
+2	practice	nan	nan	green	(green no response)
+3	practice	nan	nan	green	(green no response)
+4	practice	nan	nan	green	(green no response)
+5	practice	space	0.3088719999650493	red	hit
+6	practice	space	0.3551159000489861	red	hit
+7	practice	space	0.3917031000601128	red	hit
+8	practice	space	0.3113530999980867	red	hit
+9	practice	space	0.2803577999584377	green	false alarm
+10	practice	nan	nan	green	(green no response)

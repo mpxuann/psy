@@ -1,0 +1,4 @@
+Name,Age,Smoker
+mao,20,0
+lei,19,0
+chen,23,0

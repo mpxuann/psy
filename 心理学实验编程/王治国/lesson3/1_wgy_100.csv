@@ -1,0 +1,101 @@
+trial,name,keyPressed,responseTime,color,response
+1,wgy,nan,nan,green,(green no response)
+2,wgy,space,0.3373119,red,hit
+3,wgy,space,0.3488215,red,hit
+4,wgy,space,0.3133714,red,hit
+5,wgy,nan,nan,green,(green no response)
+6,wgy,space,0.4009476,red,hit
+7,wgy,space,0.4041188,red,hit
+8,wgy,space,0.3458927,red,hit
+9,wgy,nan,nan,green,(green no response)
+10,wgy,nan,nan,green,(green no response)
+11,wgy,space,0.3200094,red,hit
+12,wgy,space,0.3676286,red,hit
+13,wgy,space,0.2731211,red,hit
+14,wgy,space,0.337908,red,hit
+15,wgy,space,0.3394691,red,hit
+16,wgy,space,0.3655693,red,hit
+17,wgy,space,0.3769918,red,hit
+18,wgy,space,0.302323,red,hit
+19,wgy,nan,nan,green,(green no response)
+20,wgy,space,0.3699453,red,hit
+21,wgy,nan,nan,green,(green no response)
+22,wgy,space,0.3215937,red,hit
+23,wgy,space,0.3142909,red,hit
+24,wgy,nan,nan,green,(green no response)
+25,wgy,nan,nan,green,(green no response)
+26,wgy,nan,nan,green,(green no response)
+27,wgy,space,0.3639808,green,false alarm
+28,wgy,space,0.4836943,red,hit
+29,wgy,nan,nan,green,(green no response)
+30,wgy,nan,nan,green,(green no response)
+31,wgy,space,0.4611696,red,hit
+32,wgy,nan,nan,green,(green no response)
+33,wgy,space,0.4683485,red,hit
+34,wgy,nan,nan,green,(green no response)
+35,wgy,nan,nan,green,(green no response)
+36,wgy,nan,nan,green,(green no response)
+37,wgy,space,0.3223434,red,hit
+38,wgy,nan,nan,green,(green no response)
+39,wgy,space,0.441045,red,hit
+40,wgy,space,0.259072,green,false alarm
+41,wgy,space,0.5788013,red,hit
+42,wgy,space,0.5120623,red,hit
+43,wgy,nan,nan,green,(green no response)
+44,wgy,nan,nan,green,(green no response)
+45,wgy,space,0.4507106,red,hit
+46,wgy,space,0.4312306,red,hit
+47,wgy,nan,nan,green,(green no response)
+48,wgy,space,0.4774485,red,hit
+49,wgy,nan,nan,green,(green no response)
+50,wgy,space,0.7350562,red,hit
+51,wgy,nan,nan,green,(green no response)
+52,wgy,space,0.3429154,red,hit
+53,wgy,space,0.5367258,red,hit
+54,wgy,nan,nan,green,(green no response)
+55,wgy,nan,nan,green,(green no response)
+56,wgy,nan,nan,green,(green no response)
+57,wgy,space,0.389521,red,hit
+58,wgy,space,0.4009508,red,hit
+59,wgy,nan,nan,green,(green no response)
+60,wgy,nan,nan,green,(green no response)
+61,wgy,nan,nan,green,(green no response)
+62,wgy,space,0.4954563,red,hit
+63,wgy,space,0.4547868,red,hit
+64,wgy,nan,nan,green,(green no response)
+65,wgy,space,0.5025568,red,hit
+66,wgy,space,0.4289819,red,hit
+67,wgy,space,0.3605656,red,hit
+68,wgy,nan,nan,green,(green no response)
+69,wgy,nan,nan,green,(green no response)
+70,wgy,nan,nan,green,(green no response)
+71,wgy,nan,nan,green,(green no response)
+72,wgy,nan,nan,green,(green no response)
+73,wgy,nan,nan,green,(green no response)
+74,wgy,space,0.504555,red,hit
+75,wgy,nan,nan,green,(green no response)
+76,wgy,space,0.3529838,red,hit
+77,wgy,nan,nan,green,(green no response)
+78,wgy,space,0.3874366,red,hit
+79,wgy,nan,nan,green,(green no response)
+80,wgy,nan,nan,green,(green no response)
+81,wgy,space,0.3847012,red,hit
+82,wgy,nan,nan,green,(green no response)
+83,wgy,nan,nan,green,(green no response)
+84,wgy,nan,nan,green,(green no response)
+85,wgy,space,0.3989558,red,hit
+86,wgy,space,0.7251913,red,hit
+87,wgy,nan,nan,green,(green no response)
+88,wgy,nan,nan,red,miss
+89,wgy,nan,nan,green,(green no response)
+90,wgy,nan,nan,green,(green no response)
+91,wgy,space,0.3774881,red,hit
+92,wgy,nan,nan,green,(green no response)
+93,wgy,space,0.4147004,red,hit
+94,wgy,space,0.5661275,red,hit
+95,wgy,space,0.2952566,red,hit
+96,wgy,space,0.3306543,red,hit
+97,wgy,nan,nan,green,(green no response)
+98,wgy,space,0.4489497,red,hit
+99,wgy,nan,nan,green,(green no response)
+100,wgy,nan,nan,green,(green no response)

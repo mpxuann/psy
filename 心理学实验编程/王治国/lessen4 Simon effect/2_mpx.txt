@@ -1,0 +1,4 @@
+trials	color	position	rightKey	keyPressed	con/inc	responseTime	response
+1	red	right	a	a	inc	0.735956399992574	right
+2	green	left	k	k	inc	0.49618800001917407	right
+3	red	left	a	a	con	0.5763574999873526	right

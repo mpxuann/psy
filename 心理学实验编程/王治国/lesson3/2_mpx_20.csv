@@ -1,0 +1,21 @@
+trial	name	keyPressed	responseTime	color	response
+1	mpx	space	0.46297790005337447	red	hit
+2	mpx	nan	nan	green	(green no response)
+3	mpx	space	0.26400029996875674	red	hit
+4	mpx	nan	nan	green	(green no response)
+5	mpx	space	0.31292659998871386	red	hit
+6	mpx	nan	nan	green	(green no response)
+7	mpx	space	0.38495980005245656	red	hit
+8	mpx	nan	nan	green	(green no response)
+9	mpx	space	0.4081274999771267	red	hit
+10	mpx	nan	nan	green	(green no response)
+11	mpx	space	0.37669010006356984	red	hit
+12	mpx	space	0.46937740000430495	green	false alarm
+13	mpx	space	0.48317350004799664	red	hit
+14	mpx	nan	nan	green	(green no response)
+15	mpx	space	0.2755742999725044	red	hit
+16	mpx	nan	nan	green	(green no response)
+17	mpx	space	0.31863960006739944	red	hit
+18	mpx	nan	nan	green	(green no response)
+19	mpx	space	0.30814699991606176	red	hit
+20	mpx	nan	nan	green	(green no response)

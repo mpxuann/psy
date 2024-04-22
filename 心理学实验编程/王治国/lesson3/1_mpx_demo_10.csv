@@ -1,0 +1,11 @@
+trial	name	keyPressed	responseTime	color	response
+1	mpx_demo	space	0.7504488000413403	red	hit
+2	mpx_demo	nan	nan	green	(green no response)
+3	mpx_demo	nan	nan	green	(green no response)
+4	mpx_demo	nan	nan	green	(green no response)
+5	mpx_demo	nan	nan	green	(green no response)
+6	mpx_demo	nan	nan	red	miss
+7	mpx_demo	nan	nan	red	miss
+8	mpx_demo	nan	nan	red	miss
+9	mpx_demo	nan	nan	green	(green no response)
+10	mpx_demo	nan	nan	red	miss

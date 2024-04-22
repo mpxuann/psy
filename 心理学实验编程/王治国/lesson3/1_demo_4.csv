@@ -1,0 +1,5 @@
+trial	name	keyPressed	responseTime	color	response
+1	demo	space	0.6649060000199825	red	hit
+2	demo	space	0.29999720002524555	green	false alarm
+3	demo	nan	nan	green	(green no response)
+4	demo	space	0.32261120004113764	red	hit

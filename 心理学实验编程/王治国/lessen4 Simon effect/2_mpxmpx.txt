@@ -1,0 +1,2 @@
+trials	color	position	rightKey	keyPressed	con/inc	responseTime	response
+1	red	left	a	k	con	160.48736389999976	false

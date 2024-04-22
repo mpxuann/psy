@@ -1,0 +1,17 @@
+transform into different variables
+	e.g. 智力测验分数分级
+
+file->new->syntax
+	e.g. 批量copy操作
+
+transform into same variables
+	e.g. 艾森克人格问卷数据反向计分
+	     将需要反向计分的variables transform 一下
+		recode 
+
+Word
+通配符查找
+	e.g. ([0,9]{1,2})
+
+特殊格式查找？
+	e.g. 查找高亮
